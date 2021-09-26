@@ -1,7 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHeadphones } from "@fortawesome/free-solid-svg-icons";
-
+import "./Band.css";
 const Band = (props) => {
   const musicIcon = <FontAwesomeIcon icon={faHeadphones} />;
 
@@ -17,7 +17,9 @@ const Band = (props) => {
             style={{ height: "220px" }}
           />
           <div className="card-body">
-            <h5 className="card-title">{name}</h5>
+            <h5 className="card-title" style={{ color: "#0077b6" }}>
+              {name}
+            </h5>
             <h6>Genres: {genres}</h6>
             <p>
               <span className="fw-bold">Labels:</span> {labels}
@@ -31,7 +33,7 @@ const Band = (props) => {
             <button
               onClick={() => props.handleBtn(props.band)}
               type="button"
-              className="btn text-white"
+              className="btn text-white cart-btn"
               style={{ backgroundColor: "#013a63" }}
             >
               {musicIcon} Add To fav list

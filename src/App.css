@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+body {
+  font-family: "Gemunu Libre", sans-serif;
+  background-color: #edf2f4;
+}

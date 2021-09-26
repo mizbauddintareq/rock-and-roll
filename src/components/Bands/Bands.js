@@ -28,24 +28,24 @@ const Bands = () => {
 
   return (
     // bands section
-    <div className="row my-4">
+    <div className="row mt-4">
       <div className="col-md-9 border-end">
         <div className="row row-cols-1 row-cols-md-3 g-4">
           {bands.map((band) => (
-            <Band band={band} key={band.name} handleBtn={handleBtn}></Band>
+            <Band band={band} key={band.id} handleBtn={handleBtn}></Band>
           ))}
         </div>
       </div>
       {/* cart section */}
-      <div className="col-md-3" style={{ color: "#014f86" }}>
+      <div className="col-md-3" style={{ color: "#023e8a" }}>
         <div className="text-center">
           <h3>
-            {musicIcon} Selected Band {cart.length}
+            {musicIcon} {cart.length} Bands Chosen
           </h3>
           <h6>Total Fees: ${totalFees}</h6>
         </div>
         <hr />
-        <h5>Selected Band List</h5>
+        <h5>Chosen Band's List</h5>
         {cart.map((band) => (
           <Cart info={band} key={band.fees}></Cart>
         ))}

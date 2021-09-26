@@ -77,18 +77,13 @@ const Header = () => {
       </div>
 
       {/* hero text */}
-      <div
-        className="text-center my-2 hero-text"
-        style={{ backgroundColor: "#014f86" }}
-      >
-        <h1>
-          Rock And Roll-<span>2021</span>
-        </h1>
+      <div className="text-center my-2 hero-text">
+        <h1>Rock And Roll-2021</h1>
         <h3>
           We are going to host the world's one of the biggest concert at
           Randall's Island
         </h3>
-        <h1>It's A 10 Million USD Budget For This Concert</h1>
+        <h2>55 Million Budget For This Festival</h2>
       </div>
     </div>
   );

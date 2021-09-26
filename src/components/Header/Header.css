@@ -1,6 +1,12 @@
-.hero-text {
-  color: #ced4da;
+.hero-text h1 {
+  font-size: 65px;
+  color: #023e8a;
 }
-.hero-text span {
-  color: #ffffff;
+
+.hero-text h3 {
+  color: #0077b6;
+}
+.hero-text h2 {
+  font-size: 55px;
+  color: #023e8a;
 }
