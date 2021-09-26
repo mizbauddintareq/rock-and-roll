@@ -1,4 +1,4 @@
-# Rock And Roll 2021
+# Live Concert 2021
 
 Here is My [Live Project Link](https://rock-and-roll-2021-mizba.netlify.app/)
 
@@ -10,4 +10,6 @@ Here is My [Live Project Link](https://rock-and-roll-2021-mizba.netlify.app/)
 
 ## Authors
 
-- [Mizba Uddin Tareq](https://www.facebook.com/mizbauddintareq)
+[Mizba Uddin Tareq](https://www.facebook.com/mizbauddintareq)
+
+![Logo](https://i.postimg.cc/3wSw4PxD/music-icon-152-100489.png)
