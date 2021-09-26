@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Linkin Park",
+    "genres": "Rock, Electronic dance music",
+    "labels": "Warner, Machine Shop",
+    "origin": "Agoura Hills, California (1996)",
+    "fees": 980000,
+    "thumb": "https://i.postimg.cc/tR23LHrj/linkin-park-759.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Eluveitie",
+    "genres": "Metal, Rock",
+    "labels": "Nuclear Blast, Fear Dark",
+    "origin": "Zürich, Switzerland (2002)",
+    "fees": 999000,
+    "thumb": "https://i.postimg.cc/P5bwhnCW/unnamed-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bullet for My Valentine",
+    "genres": "Metalcore, ‎heavy metal‎",
+    "labels": "Visible Noise, Sony Music;",
+    "origin": "Bridgend, Wales, UK (2004)",
+    "fees": 531000,
+    "thumb": "https://i.postimg.cc/kXB0k7hH/Bullet-for-my-Valentine.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Korn",
+    "genres": "Nu metal, Hard rock,",
+    "labels": "Roadrunner Records",
+    "origin": "California, United States (1993)",
+    "fees": 670000,
+    "thumb": "https://i.postimg.cc/JnWVX2vT/Korn.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Slipknot",
+    "genres": "Heavy metal, Death metal",
+    "labels": "Warner; Machine Shop",
+    "origin": "Iowa, United States (1995)",
+    "fees": 450000,
+    "thumb": "https://i.postimg.cc/0QWRb0Rj/skdhi.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Boyz II Men",
+    "genres": "Hip hop music",
+    "labels": "Motown, Universal Music Group",
+    "origin": "Pennsylvania (1985)",
+    "fees": 158000,
+    "thumb": "https://i.postimg.cc/6phxRXCy/f25.jpg"
+  },
+  {
+    "id": 7,
+    "name": "EXO",
+    "genres": "K-pop, Pop music",
+    "labels": "SM Entertainment, Avex Trax",
+    "origin": "Seoul, South Korea (2011)",
+    "fees": 198000,
+    "thumb": "https://i.postimg.cc/90GCnqwB/EXO.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Seventeen",
+    "genres": "Pop music, Hip hop music",
+    "labels": "Space Shower Music",
+    "origin": "Seoul, South Korea (2015)",
+    "fees": 298000,
+    "thumb": "https://i.postimg.cc/qvmhL9Tv/E2-NSa-TKUc-AYxlf.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Snuts",
+    "genres": "Alternative rock, Indie",
+    "labels": "Warner Music Australia",
+    "origin": "United Kingdom (2015)",
+    "fees": 328000,
+    "thumb": "https://i.postimg.cc/rw2QTR0r/snuts-number-one.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Guns N' Roses",
+    "genres": "pop rock Rock, Heavy metal",
+    "labels": "Sölvesborg, Sweden",
+    "origin": "United States (1985)",
+    "fees": 790000,
+    "thumb": "https://i.postimg.cc/dVDdzqny/GNR-London-Stadium-2017-3-cropped.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bon Jovi",
+    "genres": "Glam metal, ‎hard rock‎,",
+    "labels": "Island, ‎Mercury‎, ‎Vertigo",
+    "origin": "United States (1983)",
+    "fees": 954000,
+    "thumb": "https://i.postimg.cc/pTB43YXk/41-Oi-Qkl-Zvn-L-SL1000.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Meet Me at the Altar",
+    "genres": "Pop-punk, Alternative/Indie",
+    "labels": "Fueled by Ramen",
+    "origin": "Florida, USA (2015)",
+    "fees": 688000,
+    "thumb": "https://i.postimg.cc/0NVHHmnw/Meet-Me-At-The-Altar-2021.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Rage Against the Machine",
+    "genres": "Nu metal",
+    "labels": "Legacy Recordings",
+    "origin": "California, USA (1991)",
+    "fees": 967000,
+    "thumb": "https://i.postimg.cc/T1nP9Rxp/0-P2-A0252-Crop-scaled.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Inhaler",
+    "genres": "Indie rock, Alternative rock,",
+    "labels": "Polydor Records",
+    "origin": "Dublin, Ireland (2012)",
+    "fees": 989000,
+    "thumb": "https://i.postimg.cc/dQgHZJDG/249380.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Paramore",
+    "genres": "Rock, Emo, Pop-punk",
+    "labels": "Warner Music Australia",
+    "origin": "Tennessee, USA (2004)",
+    "fees": 391000,
+    "thumb": "https://i.postimg.cc/sxztSygj/03-paramore.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Chai",
+    "genres": "R&B/Soul, Alternative/Indie",
+    "labels": "Sony Music Entertainment",
+    "origin": "Nagoya, Japan (2012)",
+    "fees": 230000,
+    "thumb": "https://i.postimg.cc/rmfXxsK8/Chai-Japan.jpg"
+  },
+  {
+    "id": 17,
+    "name": "New Kids On The Block",
+    "genres": "Rhythm and blues",
+    "labels": " Columbia/‎CBS‎, ‎Interscope‎",
+    "origin": "United States (1984)",
+    "fees": 150000,
+    "thumb": "https://i.postimg.cc/DzbZPRZL/gty-new-kids-on-the-block-jc-150225-16x9-992.jpg"
+  },
+  {
+    "id": 3,
+    "name": "One Direction",
+    "genres": "Pop, pop rock",
+    "labels": "Syco, Columbia",
+    "origin": "United Kingdom (2010)",
+    "fees": 659000,
+    "thumb": "https://i.postimg.cc/SsLrX272/574202.jpg"
+  }
+]
